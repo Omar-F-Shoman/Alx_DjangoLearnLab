@@ -20,7 +20,7 @@ print(all_books)
 
 ### Expected Output
 plaintext
-<QuerySet [<Book: 1984>]>
+<QuerySet [<Book: 1984>]>ٍ
 
 ## Update Operation
 ### Command
