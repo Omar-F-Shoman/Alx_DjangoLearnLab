@@ -2,6 +2,8 @@
 
 ## Command
 ```python
+from bookshelf.models import Book
+
 # Delete a specific book object
 book.delete()
 
