@@ -1,1 +1,1 @@
-setup for LibraryProject
+"# LibraryProject - Django Project" 
